@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "2e6de4e52b9d8f08",
+    "type": "split",
+    "children": [
+      {
+        "id": "06bbece3bf652ea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "724c971949ee712b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/OverTheWire/Bandit/bandit10-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bandit10-11"
+            }
+          },
+          {
+            "id": "bbb8abb3a6d8c855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/OverTheWire/Bandit/bandit11-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bandit11-12"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f568a89ee72fb69",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cc17c729e567c5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9654f61d9c2ba3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "55bef91d1be1da96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a1a00c25de4128d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2aae2a129229854",
+    "type": "split",
+    "children": [
+      {
+        "id": "62f20d4224e8b386",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22c42053cf759747",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bash/OverTheWire/Bandit/bandit11-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de bandit11-12"
+            }
+          },
+          {
+            "id": "043f034fc55091b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bash/OverTheWire/Bandit/bandit11-12.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de bandit11-12"
+            }
+          },
+          {
+            "id": "e1e8c1ca3359a3bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "dc643d81a63a03c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bash/OverTheWire/Bandit/bandit11-12.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de bandit11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "bbb8abb3a6d8c855",
+  "lastOpenFiles": [
+    "Pasted image 20250213020325.png",
+    "Bash/OverTheWire/Bandit/bandit10-11.md",
+    "Bash/OverTheWire/Bandit/bandit11-12.md",
+    "Pasted image 20250213020234.png",
+    "Pasted image 20250213020024.png",
+    "Bash/OverTheWire/Bandit/img/Pasted image 20250213010659.png",
+    "Bash/OverTheWire/Bandit/bandit9-10.md",
+    "Bash/OverTheWire/Bandit/bandit8-9.md",
+    "Bash/OverTheWire/Bandit/bandit7-8.md",
+    "Bash/OverTheWire/Bandit/bandit6-7.md",
+    "Bash/OverTheWire/Bandit/img/Pasted image 20250213015924.png",
+    "Bash/OverTheWire/Bandit/img/Pasted image 20250213015629.png",
+    "Bash/OverTheWire/Bandit/img/Pasted image 20250213015550.png",
+    "Bash/OverTheWire/Bandit/img/Pasted image 20250213015304.png",
+    "Bash/OverTheWire/Bandit/img/Pasted image 20250213015221.png",
+    "Bash/OverTheWire/Bandit/img/Pasted image 20250213014902.png",
+    "Bash/OverTheWire/Bandit/img/Pasted image 20250213014811.png",
+    "Bash/OverTheWire/Bandit/bandit5-6.md",
+    "Bash/OverTheWire/Bandit/bandit4-5.md",
+    "Bash/OverTheWire/Bandit/bandit3-4.md",
+    "Bash/OverTheWire/Bandit/bandit2-3.md",
+    "Bash/OverTheWire/Bandit/bandit1-2.md",
+    "Bash/OverTheWire/Bandit/bandit0-1.md",
+    "Bash/OverTheWire/Bandit/img",
+    "Bash/OverTheWire/Bandit",
+    "Bash/OverTheWire",
+    "Bienvenido.md",
+    "Bash",
+    "Js",
+    "Python"
+  ]
+}
