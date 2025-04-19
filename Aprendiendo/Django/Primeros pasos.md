@@ -57,7 +57,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> Project.objects.get(name =aplicacion movil)
   File "<console>", line 1
     Project.objects.get(name =aplicacion movil)
-                              ^^^^^^^^^^^^^^^^
 SyntaxError: invalid syntax. Perhaps you forgot a comma?
 >>> Project.objects.get(name ="aplicacion movil")
 ❯ python manage.py shell
