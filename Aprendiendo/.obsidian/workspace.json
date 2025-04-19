@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37939ebf5ae2359a",
+        "id": "a5e026b9f5d38490",
         "type": "tabs",
         "children": [
           {
-            "id": "6f181705b4dd770e",
+            "id": "1cf6b7af387570ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/Curso/Primeros pasos.md",
+                "file": "Django/Primeros pasos.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Crear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,20 +168,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6f181705b4dd770e",
+  "active": "1cf6b7af387570ed",
   "lastOpenFiles": [
-    "Bash/Curso/img/Pasted image 20250215234657.png",
+    "Django/img/Pasted image 20250416104523.png",
+    "Django/img/Pasted image 20250416104054.png",
+    "Django/Primeros pasos.md",
+    "Django/img/Pasted image 20250416101611.png",
+    "Django/img/Pasted image 20250416100508.png",
+    "Django/img/Pasted image 20250416093754.png",
     "Bash/Curso/Primeros pasos.md",
+    "Django/img/Pasted image 20250416093713.png",
+    "Pasted image 20250416093640.png",
+    "Django/img",
+    "Django",
+    "Bash/Curso/img/Pasted image 20250215234657.png",
     "Bash/Curso/img/Pasted image 20250215233702.png",
     "Bash/Curso/img/Pasted image 20250215203856.png",
-    "Bash/Curso/img/Pasted image 20250215202821.png",
-    "Bash/Curso/img/Pasted image 20250215201802.png",
-    "Bash/Curso/img/Pasted image 20250215201102.png",
-    "Bash/Curso/img/Pasted image 20250215200731.png",
-    "Bash/Curso/img/Pasted image 20250215200658.png",
     "Bash/Curso/img",
-    "Bash/Curso/img/Pasted image 20250215200059.png",
-    "Bash/OverTheWire/Bandit/img/Pasted image 20250214012645.png",
     "Bash/Curso",
     "Bash/OverTheWire/Bandit/bandit12-13.md",
     "Bash/OverTheWire/Bandit/bandit11-12.md",
